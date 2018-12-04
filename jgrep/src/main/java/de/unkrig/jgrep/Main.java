@@ -57,7 +57,6 @@ import org.codehaus.janino.Scanner;
 import org.codehaus.janino.ScriptEvaluator;
 import org.codehaus.janino.UnitCompiler;
 import org.codehaus.janino.util.AbstractTraverser;
-import org.codehaus.janino.util.ClassFile;
 import org.codehaus.janino.util.StringPattern;
 import org.codehaus.janino.util.Traverser;
 import org.codehaus.janino.util.iterator.DirectoryIterator;
